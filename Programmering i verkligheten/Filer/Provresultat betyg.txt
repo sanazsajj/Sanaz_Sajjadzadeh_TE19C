@@ -1,0 +1,12 @@
+F:
+['Sven Erik Karlsson 13\n', 'Hanna Karlsson 23 \n', 'Fredrika Ulven 10\n']
+E:
+['Adam Gustafsson 25\n', 'Emil Johansson 23\n', 'Ida Håkansson 23\n', 'Håkan Håkanson 24\n']
+D:
+['Emma Boden 32\n', 'Sven Erik Lundin 39\n', 'Björn Björnsson 39\n', 'Karl Karlsson 32\n', 'Bose Bosseson 32\n', 'Jonas Jonasson 31\n', 'Erik Eriksson 31\n']
+C:
+['Ove Karlsten 41\n', 'Ella Ester 41\n', 'Johan Johansson 42\n']
+B:
+['Gore Bord 55\n']
+A:
+['Jakob Kallander 65\n']
